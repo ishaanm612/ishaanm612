@@ -1,13 +1,16 @@
-# Hi, I'm Ishaan 👋
+Hi, I'm Ishaan 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&width=600&lines=Previous+Intern+%40+DonorAtlas;Latency+Optimization;Robotics+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&width=600&lines=Founding+ML+Researcher+%40+Origami;Perceptions+Research+Lead+%40+CMU+Racing;CS+%2B+AI+%40+Carnegie+Mellon" alt="Typing SVG" />
 </a>
 
-I am a Computer Science researcher and engineer passionate about **Robotics**. My primary research focus is optimizing robotics systems to be more robust and efficient, particularly in handling out-of-distribution tasks.
+I am a Computer Science researcher at Carnegie Mellon University. My work centers on Robotics and Vision, specifically building robust autonomous systems through efficient training and inference.
 
-I am also actively exploring:
-* **4D World Models**
-* **Optimizing VLM Inference**
+I am actively exploring:
+- Dextrous Manipulation & Humanoids 
+- High-Performance Robot Perception 
+- VLM Inference & 4D World Models
 
-🔙 **Previous:** Software Development Engineer Intern at **DonorAtlas**
+**Current:** Founding ML Researcher at Origami Robotics (YC W26).
+**Research:** Undergraduate Research Assistant at the CMU Robotics Institute.
+**Previous:** Robotics Engineering Intern at NASA Johnson Space Center.
