@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ishaan 👋
 
-<!--
-**ishaanm612/ishaanm612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&width=600&lines=Previous+Intern+%40+DonorAtlas;Latency+Optimization;Robotics+Systems" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+I am a Computer Science researcher and engineer passionate about **Robotics**. My primary research focus is optimizing robotics systems to be more robust and efficient, particularly in handling out-of-distribution tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also actively exploring:
+* **4D World Models**
+* **Optimizing VLM Inference**
+
+🔙 **Previous:** Software Development Engineer Intern at **DonorAtlas**
