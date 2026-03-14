@@ -12,5 +12,7 @@ I am actively exploring:
 - VLM Inference & 4D World Models
 
 **Current:** Founding ML Researcher at Origami Robotics (YC W26).
+
 **Research:** Undergraduate Research Assistant at the CMU Robotics Institute.
+
 **Previous:** Robotics Engineering Intern at NASA Johnson Space Center.
