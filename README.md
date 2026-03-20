@@ -4,6 +4,10 @@ Hi, I'm Ishaan 👋
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&width=600&lines=Founding+ML+Researcher+%40+Origami;Perceptions+Research+Lead+%40+CMU+Racing;CS+%2B+AI+%40+Carnegie+Mellon" alt="Typing SVG" />
 </a>
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedanthR5&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/VedanthR5)
+
+---
+
 I am a Computer Science researcher at Carnegie Mellon University. My work centers on Robotics and Vision, specifically building robust autonomous systems through efficient training and inference.
 
 I am actively exploring:
