@@ -1,7 +1,7 @@
 Hi, I'm Ishaan 👋
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&width=600&lines=Founding+ML+Researcher+%40+Origami;Perceptions+Research+Lead+%40+CMU+Racing;CS+%2B+AI+%40+Carnegie+Mellon" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=BC36F7&width=600&lines=Founding+ML+Researcher+%40+Origami;Perceptions+Research+Lead+%40+CMU+Racing;CS+%2B+AI+%40+Carnegie+Mellon" alt="Typing SVG" />
 </a>
 ---
 
