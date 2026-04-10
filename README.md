@@ -3,8 +3,6 @@ Hi, I'm Ishaan 👋
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&width=600&lines=Founding+ML+Researcher+%40+Origami;Perceptions+Research+Lead+%40+CMU+Racing;CS+%2B+AI+%40+Carnegie+Mellon" alt="Typing SVG" />
 </a>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaanm612&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=Extraterrestrial-Escape,Remake-Core,Grapple-Game,WGJ_191,Grapple-Game-Rigidbody)](https://github.com/ishaanm612)
 ---
 
 I am a Computer Science researcher at Carnegie Mellon University. My work centers on Robotics and Vision, specifically building robust autonomous systems through efficient training and inference.
